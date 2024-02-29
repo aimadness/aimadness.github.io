@@ -1,2 +1,2 @@
-# aimadness.github.io
-AI Madness website
+# aimadness.us
+AI Madness website hosted in github
